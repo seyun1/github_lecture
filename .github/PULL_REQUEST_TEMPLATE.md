@@ -1,4 +1,4 @@
-#PR Type
+# PR Type
 - Features
 - Bug fix
 - Documentation
